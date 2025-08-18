@@ -12,4 +12,8 @@ gpu Nvidia RTX 4060 laptop edition
 
 ram: 32gb DDR5
 
+OS: Windows
+
+Faveorite Hypervisor: Vmware workstation
+
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,windows,nodejs,figma,php,powershell,unity,robloxstudio,xd,vscode,visualstudio,wordpress&theme=light)](https://skillicons.dev)

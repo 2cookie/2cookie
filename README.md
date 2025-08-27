@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there >_<
 
 Hi im 2cookie :3 
 

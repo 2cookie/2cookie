@@ -6,7 +6,7 @@ im a Ui designer UX designer web developer and aspireing security researcher!
 
 Pc specs cause i like flexing :3 
 
-cpu: intel core i9 14th gen
+cpu: intel core i9
 
 gpu Nvidia RTX 4060 laptop edition
 

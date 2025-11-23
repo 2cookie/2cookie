@@ -21,4 +21,6 @@ OS: Windows
 
 Faveorite Hypervisor: Vmware workstation
 
+Phone: Samsung galaxy S24+ with Qualcomm snapdragon 8 gen 3
+
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,windows,nodejs,figma,php,powershell,unity,robloxstudio,xd,vscode,visualstudio,unrealengine,wordpress&theme=light)](https://skillicons.dev)

@@ -7,6 +7,8 @@ Hi im 2cookie :3
 
 im a Ui designer UX designer web developer and aspireing security researcher!
 
+i also really like messing with cellular radio tho i dont have much radio hardware its so cool :p
+
 Pc specs cause i like flexing :3 
 
 cpu: intel core i9

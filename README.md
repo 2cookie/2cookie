@@ -19,6 +19,8 @@ ram: 32gb DDR5
 
 OS: Windows
 
+Wifi radio: Intel(R) Wi-Fi 6E AX211 160MHz
+
 Faveorite Hypervisor: Vmware workstation
 
 Phone: Samsung galaxy S24+ with Qualcomm snapdragon 8 gen 3

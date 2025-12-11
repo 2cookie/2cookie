@@ -8,6 +8,7 @@ Hiya im 2cookie ^u^
 im a Ui designer UX designer web developer and aspireing security researcher!
 
 i also really like messing with cellular radio tho i dont have much radio hardware its so cool :p
+i absoloutley hate rust btw
 
 Pc specs cause why not :3 
 

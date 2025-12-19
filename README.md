@@ -1,8 +1,5 @@
 ## Hi there ^u^ 🩷🍰🍪
 
-🎶"Don't wanna be alone But I don't wanna be the one that lets you down~"🎶
--MattKC - Misery
-
 Hiya im 2cookie ^u^
 
 im a Ui designer UX designer web developer and aspireing security researcher!

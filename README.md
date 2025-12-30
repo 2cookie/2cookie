@@ -8,6 +8,9 @@ i also really like messing with cellular radio tho i dont have much radio hardwa
 
 i absoloutley hate rust btw
 
+Ps i yap on github gist sometimes you can [have a look](https://gist.github.com/2cookie) here
+
+
 Pc specs cause why not :3 
 
 cpu: intel core i9

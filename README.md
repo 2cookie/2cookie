@@ -6,6 +6,8 @@ im a Ui designer UX designer web developer and aspireing security researcher!
 
 i also really like messing with cellular radio tho i dont have much radio hardware its so cool :p
 
+also getting into reverse engeenering and device drviers and some other fun low level stuff
+
 i absoloutley hate rust btw
 
 Ps i yap on github gist sometimes you can [have a look](https://gist.github.com/2cookie) here

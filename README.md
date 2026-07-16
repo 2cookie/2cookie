@@ -6,7 +6,7 @@ lowkey better at finding random expensive enterprise solutions and swiping my ca
 anaways when im not drooling over enterprise crap im like a Ui designer UX designer web developer and aspireing security researcher!
 rly rly rly concerningly good at low and high level networking and service hosting i think
 i also really like messing with cellular radio tho i dont have much radio hardware its so cool :p
-i absoloutley hate rust btw
+i absoloutley hate rust btw if you glaze rust let me know so i can block you thanks
 
 Ps i yap on github gist sometimes you can [have a look](https://gist.github.com/2cookie) here
 

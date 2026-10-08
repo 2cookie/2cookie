@@ -2,11 +2,11 @@
 
 Hiya im 2cookie ^u^
 
-lowkey quit idk 
+lowkey quit idk i dont have the energy anymore for coding and dont rly find it too fun anymore
 
-i absoloutley hate rust btw if you glaze rust let me know so i can block you thanks
+i absoloutley hate rust btw
 
-Pc specs cause why not :3 
+Pc specs:
 
 gpu Nvidia RTX 4060 laptop edition
 

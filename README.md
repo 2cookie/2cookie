@@ -3,6 +3,7 @@
 Hiya im 2cookie ^u^
 
 lowkey quit idk 
+
 i absoloutley hate rust btw if you glaze rust let me know so i can block you thanks
 
 Pc specs cause why not :3 

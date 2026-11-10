@@ -19,6 +19,8 @@ Wifi radio: Intel(R) Wi-Fi 6E AX211 160MHz
 Faveorite Hypervisor: Vmware workstation
 
 Faveorite game engines: Unity and Unreal
+![ice crem](https://raw.githubusercontent.com/2cookie/2cookie/refs/heads/main/Crepe%20aesthetic%20in%20Harajuku%20Japan.jpe
+ "ice crem")
 
 
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,windows,nodejs,figma,php,powershell,unity,robloxstudio,xd,vscode,visualstudio,unrealengine,wordpress&theme=light)](https://skillicons.dev)
